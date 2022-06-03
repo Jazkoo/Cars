@@ -269,7 +269,7 @@ main small {
   align-content: center;
   flex-wrap:wrap;
 
-
+}
 
   
   /* Large */
@@ -296,7 +296,7 @@ main small {
   }
 }
 
-}
+
 
 
 
