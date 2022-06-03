@@ -35,6 +35,9 @@ export default {
     '@nuxt/content',
   ],
 
+  router: {
+    base: '/Cars/'
+  },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 
